@@ -1,0 +1,6 @@
+print('abcde')
+print(type('abcde'))
+print('Hello')
+print(type('Hello'))
+print('12345')
+print(type('12345'))

@@ -1,0 +1,8 @@
+print('A')
+print('B')
+print(ord('A'))
+print(ord('B'))
+print(chr(65))
+print(chr(66))
+print(chr(97))
+print(chr(98))
